@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileUpload_CS", "FileUpload_CS\", "{5188E881-5FD5-4839-85A1-6099B0688BF2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/FileUpload_CS"
+		Debug.AspNetCompiler.PhysicalPath = "FileUpload_CS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUpload_CS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FileUpload_CS"
+		Release.AspNetCompiler.PhysicalPath = "FileUpload_CS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUpload_CS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59124"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FileUpload_VB", "FileUpload_VB\", "{C5711458-D282-4E2F-990E-310D146778C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/FileUpload_VB"
+		Debug.AspNetCompiler.PhysicalPath = "FileUpload_VB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUpload_VB\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FileUpload_VB"
+		Release.AspNetCompiler.PhysicalPath = "FileUpload_VB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FileUpload_VB\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59126"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5188E881-5FD5-4839-85A1-6099B0688BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5188E881-5FD5-4839-85A1-6099B0688BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5711458-D282-4E2F-990E-310D146778C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5711458-D282-4E2F-990E-310D146778C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
